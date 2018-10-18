@@ -29,10 +29,10 @@
 }
 
 .portfolio-logo {
-  background: url(../images/logo.png) 50% no-repeat;
+  background: url(../images/9919.png) 60% no-repeat;
   background-size: cover;
-  height: 150px;
-  width: 150px;
+  height: 200px;
+  width: 300px;
   margin: auto auto 10px;
 }
 
@@ -167,4 +167,3 @@ footer {
   background-image: url(../images/footer-background.png);
   background-size: cover;
 }
-
